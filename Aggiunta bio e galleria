@@ -1,0 +1,57 @@
+# sito-personale
+il mio primo sito
+`html
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Crudo 7 – Carrara nel cuore</title>
+  <meta name="description" content="Sito ufficiale di Paolo, curatore indipendente a Carrara.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1, h2, h3 {
+      font-weight: bold;
+    }
+    img {
+      max-width: 400px;
+      margin-top: 10px;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    li {
+      margin-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Crudo 7 – Carrara nel cuore</h1>
+  <p>Mi chiamo Paolo. Curatore indipendente, appassionato di arte contemporanea, visione e narrazione. Questo sito è il mio spazio, il mio racconto, il mio segno.</p>
+
+  <h2>La Galleria</h2>
+  <p>Benvenuti nella galleria Crudo 7. Ogni opera esposta è frutto di una selezione attenta, una visione precisa, una narrazione visiva che parla di materia, tempo e intuizione.</p>
+
+  <h3>Opera: “Materia e Luce”</h3>
+  <img src="materia-e-luce.jpg" alt="Materia e Luce">
+  <ul>
+    <li><strong>Misure:</strong> 50x70 cm</li>
+    <li><strong>Prezzo:</strong> €350</li>
+    <li><strong>Packaging:</strong> Carta acid-free, scatola rigida, certificato autenticità</li>
+    <li><strong>Tracking:</strong> Spedizione tracciata con codice via email</li>
+  </ul>
+
+  <h2>Grazie per aver scelto Crudo 7</h2>
+  <p>Dopo l’acquisto, riceverai un’email con il tracking, il certificato e un messaggio personale. Per noi ogni collezionista è parte della visione.</p>
+
+  <h2>Lascia il tuo feedback</h2>
+  <p>Hai acquistato un’opera? Raccontaci la tua esperienza. Scrivi a <a href="mailto:crudo7feedback@gmail.com">crudo7feedback@gmail.com</a></p>
+</body>
+</html>
+`
