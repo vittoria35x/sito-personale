@@ -1,28 +1,49 @@
-`markdown
+ `html
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Galleria — Mini-sculture in marmo</title>
+  <meta name="description" content="Mini-sculture in marmo realizzate da Paolo a Carrara. Ogni opera racconta una storia, tra tecnica, passione e bellezza.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="bio.html">Chi sono</a></li>
+        <li><a href="galleria.html" class="active">Galleria</a></li>
+        <li><a href="contatti.html">Contatti</a></li>
+      </ul>
+    </nav>
+  </header>
 
-Crudo 7 – Carrara nel cuore
+  <main>
+    <section class="galleria-intro">
+      <h1>Galleria</h1>
+      <p>Ogni miniatura nasce da un frammento di marmo di Carrara, lavorato con pazienza e visione. Qui trovi una selezione delle mie opere, ciascuna con la sua storia.</p>
+    </section>
 
-Benvenuti nel sito personale di Paolo, curatore indipendente.  
-Questo spazio raccoglie opere, visioni, progetti e pensieri legati all’arte contemporanea.  
-Ogni sezione è curata con attenzione, ogni opera è una narrazione.
+    <section class="galleria-opere">
+      <div class="opera">
+        <img src="img/forma1.jpg" alt="Miniatura Forma 1">
+        <h2>Forma 1 — Equilibrio</h2>
+        <p>Una composizione che richiama la stabilità e il gesto misurato. Marmo bianco, base levigata.</p>
+      </div>
 
-Bio
-Mi chiamo Paolo. Curatore indipendente, appassionato di arte contemporanea, visione e narrazione. Questo sito è il mio spazio, il mio racconto, il mio segno.
+      <div class="opera">
+        <img src="img/forma2.jpg" alt="Miniatura Forma 2">
+        <h2>Forma 2 — Memoria</h2>
+        <p>Scultura ispirata ai frammenti di cave abbandonate. Marmo con venature grigie, taglio grezzo.</p>
+      </div>
+    </section>
+  </main>
 
-Galleria
-Benvenuti nella galleria Crudo 7. Ogni opera esposta è frutto di una selezione attenta, una visione precisa, una narrazione visiva che parla di materia, tempo e intuizione.
-
-Opera: “Materia e Luce”
-- Misure: 50x70 cm  
-- Prezzo: €350  
-- Packaging: Carta acid-free, scatola rigida, certificato autenticità  
-- Tracking: Spedizione tracciata con codice via email
-
-Ringraziamento
-Dopo l’acquisto, riceverai un’email con il tracking, il certificato e un messaggio personale. Per noi ogni collezionista è parte della visione.
-
-Feedback
-Hai acquistato un’opera? Raccontaci la tua esperienza. Scrivi a crudo7feedback@gmail.com
-
-🔗 Sito online: Apri qui
+  <footer>
+    <p>&copy; 2025 Paolo — Mini-sculture in marmo</p>
+  </footer>
+</body>
+</html>
 `
