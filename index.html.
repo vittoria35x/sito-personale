@@ -1,0 +1,26 @@
+`html
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8">
+    <title>Laboratorio del marmo</title>
+  </head>
+  <body>
+    <h1>Benvenuti</h1>
+    <ul>
+      <li><a href="01introduzionecarrara.md">01 — Introduzione a Carrara</a></li>
+      <li><a href="02_homepage.md">02 — Homepage</a></li>
+      <li><a href="03biocuratore.md">03 — Figura del curatore</a></li>
+      <li><a href="04galleriaopere.md">04 — Galleria opere</a></li>
+      <li><a href="05schedeopere.md">05 — Schede opere</a></li>
+      <li><a href="06trackingprezzo.md">06 — Tracking prezzo</a></li>
+      <li><a href="07feedbackrisonanza.md">07 — Feedback e risonanza</a></li>
+      <li><a href="08_newsletter.md">08 — Newsletter</a></li>
+      <li><a href="09filosofiacuratoriale.md">09 — Filosofia curatoriale</a></li>
+      <li><a href="10notelegittimità.md">10 — Note di legittimità</a></li>
+    </ul>
+  </body>
+</html>
+`
+   
+    
