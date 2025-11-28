@@ -1,0 +1,70 @@
+`html
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <title>Tracking valore</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+<header>
+  <h1>Tracking valore</h1>
+  <nav>
+    <a href="../05-schede-opere/index.html">← Torna alle schede opere</a>
+  </nav>
+</header>
+
+<main>
+
+  <article id="valore-01">
+    <header>
+      <h2>Scultura n. 01 — Tracciamento</h2>
+    </header>
+    <section>
+      <dl>
+        <dt>Numero</dt><dd>01</dd>
+        <dt>Valore curatoriale</dt><dd>Custodito</dd>
+        <dt>Ultimo aggiornamento</dt><dd>28/11/2025</dd>
+      </dl>
+    </section>
+    <section>
+      <p>Nota di protezione: il valore è registrato come atto di dignità, non come transazione.</p>
+    </section>
+    <section>
+      <h3>Storico variazioni</h3>
+      <ul>
+        <li>15/09/2025 — Prima registrazione</li>
+        <li>28/11/2025 — Aggiornamento curatoriale</li>
+      </ul>
+    </section>
+  </article>
+
+  <!-- Copia/Incolla per ogni nuova scultura -->
+  <!--
+  <article id="valore-02">
+    <header><h2>Scultura n. 02 — Tracciamento</h2></header>
+    <section>
+      <dl>
+        <dt>Numero</dt><dd>02</dd>
+        <dt>Valore curatoriale</dt><dd>In risonanza</dd>
+        <dt>Ultimo aggiornamento</dt><dd>...</dd>
+      </dl>
+    </section>
+    <section>
+      <p>Nota di protezione: ...</p>
+    </section>
+    <section>
+      <h3>Storico variazioni</h3>
+      <ul>
+        <li>...</li>
+      </ul>
+    </section>
+  </article>
+  -->
+
+</main>
+
+</body>
+</html>
+`
