@@ -1,0 +1,84 @@
+`html
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <title>Schede opere</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+<header>
+  <h1>Schede opere</h1>
+  <nav>
+    <a href="../04-galleria/index.html">← Torna alla galleria</a>
+  </nav>
+</header>
+
+<main>
+
+  <article id="opera-01">
+    <header>
+      <h2>Scultura n. 01 — Titolo dell’opera</h2>
+    </header>
+    <section>
+      <dl>
+        <dt>Numero</dt><dd>01</dd>
+        <dt>Dimensioni</dt><dd>H 12 cm · L 7 cm · P 5 cm</dd>
+        <dt>Tecnica</dt><dd>Marmo di Carrara, lucidatura manuale</dd>
+      </dl>
+    </section>
+    <section>
+      <p>Nota curatoriale: la forma custodisce la luce come gesto di protezione.</p>
+    </section>
+    <footer>
+      <p><strong>Stato:</strong> custodita</p>
+      <p><a href="../04-galleria/img/scultura-01.jpg">Documentazione visiva</a></p>
+    </footer>
+  </article>
+
+  <article id="opera-02">
+    <header>
+      <h2>Scultura n. 02 — Titolo dell’opera</h2>
+    </header>
+    <section>
+      <dl>
+        <dt>Numero</dt><dd>02</dd>
+        <dt>Dimensioni</dt><dd>H 15 cm · L 9 cm · P 6 cm</dd>
+        <dt>Tecnica</dt><dd>Marmo di Carrara, incisione a scalpello</dd>
+      </dl>
+    </section>
+    <section>
+      <p>Nota curatoriale: gesto minimo, soglia di silenzio.</p>
+    </section>
+    <footer>
+      <p><strong>Stato:</strong> in passaggio protetto</p>
+      <p><a href="../04-galleria/img/scultura-02.jpg">Documentazione visiva</a></p>
+    </footer>
+  </article>
+
+  <article id="opera-03">
+    <header>
+      <h2>Scultura n. 03 — Titolo dell’opera</h2>
+    </header>
+    <section>
+      <dl>
+        <dt>Numero</dt><dd>03</dd>
+        <dt>Dimensioni</dt><dd>H 18 cm · L 10 cm · P 7 cm</dd>
+        <dt>Tecnica</dt><dd>Marmo di Carrara, levigatura e taglio netto</dd>
+      </dl>
+    </section>
+    <section>
+      <p>Nota curatoriale: la materia respira senza concessioni.</p>
+    </section>
+    <footer>
+      <p><strong>Stato:</strong> custodita</p>
+      <p><a href="../04-galleria/img/scultura-03.jpg">Documentazione visiva</a></p>
+    </footer>
+  </article>
+
+</main>
+
+</body>
+</html>
+`
