@@ -1,4 +1,5 @@
-## Sections
+A living archive of small marble works carved in Carrara, created for a sensitive international niche.  
+Each piece is documented with clarity, continuity, and a curator’s discipline.## Sections
 
 - [Homepage](02bis_homepage.md)
 - [Curator Bio](03bis_curator_bio.md)
