@@ -1,0 +1,11 @@
+`html
+<figure class="quote-block">
+  <img src="T7BLUeDjFVxXDQpV8L8g7.jpeg" alt="Ritratto classico" class="quote-image">
+  <blockquote>
+    «Ho visto un angelo nel marmo e ho scolpito fino a liberarlo.»
+  </blockquote>
+  <figcaption>
+    Michelangelo Buonarroti<br>
+    <span class="en">“I saw the angel in the marble and carved until I set him free.”</span>
+  </figcaption>
+</figure>
