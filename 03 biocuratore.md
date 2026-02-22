@@ -1,5 +1,6 @@
 `markdown
-
+<img src="paolo.jpg" alt="Paolo, curatore delle mini-sculture in marmo" width="300" style="display: block; margin: 0 auto; border-radius: 6px;">
+`
 Figura del curatore
 
 !Foto principale del curatore
