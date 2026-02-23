@@ -3,7 +3,7 @@ IMG_20260216_165611_HDR.jpg<img src="paolo.jpg" alt="Paolo, curatore delle mini-
 `
 Figura del curatore
 
-!Foto principale del curatore
+!Foto principale del curatoreIMG_20260216_165611_HDR.jpg
 
 Sono Paolo Del Papa, 59 anni, nato e vivo a Carrara.  
 Curatore radicato nel territorio del marmo, custode di un percorso che non è commercio ma trasmissione.  
