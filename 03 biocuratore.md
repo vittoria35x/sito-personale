@@ -1,9 +1,13 @@
-`markdown
-IMG_20260216_165611_HDR.jpg<img src="paolo.jpg" alt="Paolo, curatore delle mini-sculture in marmo" width="300" style="display: block; margin: 0 auto; border-radius: 6px;">
-`
-Figura del curatore
+markdown
+---
 
-!Foto principale del curatoreIMG_20260216_165611_HDR.jpg
+![Paolo, curatore delle mini-sculture in marmo](paolo.jpg)
+
+**Figura del curatore**
+
+---
+
+![Foto principale del curatore](IMG_20260216_165611_HDR.jpg)
 
 Sono Paolo Del Papa, 59 anni, nato e vivo a Carrara.  
 Curatore radicato nel territorio del marmo, custode di un percorso che non è commercio ma trasmissione.  
@@ -11,39 +15,41 @@ Ogni gesto è autonomia, dignità, chiarezza.
 
 ---
 
-Identità
+## Identità
 
-- Non lavoro il marmo: regalo emozione.  
-- Ogni scultura è unica, numerata, irripetibile.  
-- La mia figura non è professione burocratica, ma responsabilità di custodia.
-
----
-
-Autonomia
-
-- Ogni passaggio è scelto e protetto.  
-- Nessuna mediazione commerciale: solo soglia chiara e trasparente.  
-- Vita intrecciata con radici e libertà.
+Non lavoro il marmo: regalo emozione.  
+Ogni scultura è unica, numerata, irripetibile.  
+La mia figura non è professione burocratica, ma responsabilità di custodia.
 
 ---
 
-Trasmissione
+## Autonomia
+
+Ogni passaggio è scelto e protetto.  
+Nessuna mediazione commerciale: solo soglia chiara e trasparente.  
+Vita intrecciata con radici e libertà.
+
+---
+
+## Trasmissione
 
 Questa sezione non è biografia, ma atto di trasmissione:  
 un laboratorio che si apre al mondo senza perdere identità.
 
 ---
 
-Galleria del curatore
+## Galleria del curatore
 
-!Foto 1 - laboratorio  
-!Foto 2 - dettagli marmo  
-!Foto 3 - paesaggio Carrara
+![Foto 1 - laboratorio](foto1.jpg)  
+![Foto 2 - dettagli marmo](foto2.jpg)  
+![Foto 3 - paesaggio Carrara](foto3.jpg)
 
 ---
 
-Frase emozionale
+## Frase emozionale
 
 *"Ogni pietra che passa tra le mie mani diventa respiro:  
 non un oggetto, ma una forma che custodisce emozione."*
-`
+
+--
+
