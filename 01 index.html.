@@ -1,4 +1,62 @@
+html
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8">
+    <title>Laboratorio del Marmo</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 40px;
+        line-height: 1.6;
+      }
+      header {
+        text-align: center;
+        margin-bottom: 40px;
+      }
+      header img {
+        max-width: 400px;
+        height: auto;
+        border-radius: 4px;
+      }
+      nav ul {
+        list-style: none;
+        padding: 0;
+      }
+      nav li {
+        margin: 8px 0;
+      }
+      nav a {
+        text-decoration: none;
+        color: #333;
+        font-size: 18px;
+      }
+      nav a:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
 
+  <body>
+
+    <header>
+      <img src="artista-michelangelo.jpg" alt="Michelangelo Buonarroti">
+      <h1>Laboratorio del Marmo</h1>
+      <p>Un percorso curatoriale tra storia, materia e sguardo contemporaneo.</p>
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="bio.html">Biografia del Curatore</a></li>
+        <li><a href="archivio-storico.html">Archivio Storico — Cave e Lavoratori</a></li>
+        <li><a href="galleria-opere.html">Galleria delle Opere</a></li>
+        <li><a href="filosofia-curatoriale.html">Filosofia Curatoriale</a></li>
+        <li><a href="newsletter.html">Newsletter</a></li>
+      </ul>
+    </nav>
+
+  </body>
+</html>
 `
    
     
