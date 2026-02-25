@@ -1,0 +1,103 @@
+html
+<!doctype html>
+<html lang="it">iquadro**, pronto da incollare in.html`.
+
+---
+
+# ✅ **`galleria-opere.html` — VERSION
+  <head>
+    <meta charset="utf-8">
+    <title>Galleria
+
+    <style>
+     -family: Arial, sans-serif;
+        margin: 40px;
+        line-height: 1.6;
+      }
+
+      h1 {
+       -bottom: 40px;
+     : center;
+        margin-bottom:  delle Opere</title> body {
+        font text-align: center;
+        margin }
+
+      .opera {
+        text-align50px;
+      }
+
+      .opera img {
+        max-width: 400px;
+        height: auto;
+        border-radius: 4px;
+       15px;
+      }
+
+      margin-bottom:  .did {
+        font-size: 18px;
+        {
+        list-style: 0;
+        margin-top: 40px;
+        text-align: center;
+      }
+
+      a {
+        text-decoration: none #333;
+        font  </head>
+
+  <body>
+
+    <!-- OPERA 1 -->
+    <div class="opera"> color: #444;
+      }
+
+      nav ul: none;
+        padding nav li {
+        margin: 8px 0;
+      }
+
+      nav;
+        color:-size: 18px;
+      }
+
+      nav a:hover {
+        text-decoration: underline;
+      }
+    </style>
+
+
+    <h1>Galleria delle Opere</h1>Titolo o descrizione
+    </div>
+
+   
+    <div class="opera">
+      <div class="did">
+    </div>
+
+    <!-- OPERA 3 -->
+    <div class="opera">
+      <img src="NOME-FOTO-3.jpg" alt="Opera 3">
+      <img src="NOME-FOTO-1.jpg" alt="Opera 1">
+      <div class="did"> dell’opera</div> <!-- OPERA 2 -->
+      <img src="NOME-FOTO-2.jpg" alt="Opera 2">Titolo o descrizione dell’opera</div>
+      <div class="did">Titolo o descrizione dell’opera</div>
+    </div>
+
+    <!-- OPERA 4 -->
+    <div class="opera">
+      <img src="NOME-FOTO-4.jpg" alt="Opera 4">
+      <div class="did">Titolo o descrizione dell’opera</div>
+    </div>
+
+    <nav>
+      <ul>
+        <li><a href="index.html">Torna alla Home</a></li>
+        <li><a href="bio.html">Biografia del Curatore</a></li>
+        <li><a href="archivio-storico.html">Archivio Storico</a></li>
+        <li><a href="filosofia-curatoriale.html">Filosofia Curatoriale</a></li>
+        <li><a href="newsletter.html">Newsletter</a></li>
+      </ul>
+    </nav>
+
+  </body>
+</html>
