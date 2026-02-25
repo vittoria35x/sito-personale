@@ -1,0 +1,95 @@
+html
+<!doctype html>
+  <head>
+    <meta charset="utf-8">io Storico — Cave
+
+    <style>
+      body {
+        font-family: Arial, sans;
+        margin text-align: center-bottom: 40px;
+      }
+
+      .foto {
+: center;
+        margin-bottom: : auto;
+        border-radius: 4px;
+        .did {
+        font        text-align50px;
+      }
+
+      .foto img {
+        max-width: 600px;
+        height margin-bottom: 15px;
+      }
+
+      color: #444;
+     : none;
+        padding-top: 40px;
+       -size: 18px;
+        }
+
+      nav ul {
+        list-style: 0;
+        margin margin: 8px 0;
+ text-align: center;
+      }
+
+      nav li {
+             }
+
+      nav-decoration: none #333;
+        font }
+
+      nav a:hover {
+        text-decoration }
+    </style>
+  </head>
+
+  <body>
+
+    <h1>Archiv e Lavoratori</h1> a {
+        text;
+        color:-size: 18px;
+     : underline;
+     io Storico — Cave
+
+    <!-- FOTO 1 -->
+      <img src="cava1.jpg" alt="Cava storica 1">
+      <div class="did"> anni del Novecento</div>
+    </div>
+    <div class="foto">
+      <img src="cava2.jpg" alt="Cava storica 2">
+      <div class="did">Squadra di cavatori al lavoro</div>
+    </div>
+
+   
+    <div class="foto">
+    <div class="foto">Cava storica — primi
+
+    <!-- FOTO 2 --> <!-- FOTO 3 -->
+      <div class="did">chi di marmo</div>
+    <div class="foto">
+      <img src="cava3.jpg" alt="Cava storica 3">Trasporto dei bloc
+    </div>
+
+    <!-- FOTO 4 -->
+      <div class="did">izionali dei cav
+      <img src="cava4.jpg" alt="Cava storica 4">Attrezzature tradatori</div>
+    </div>
+
+    <!-- MENU --><a href="index.html">atore</a></li>
+       
+    <nav>
+      <ul>
+        <li>Torna alla Home</a></li>
+        <li><a href="bio.html">Biografia del Cur <li><a href="galleria-opere.html">Galleria delle Op <li><a href="filosofia-curatoriale.html">Filosofia Curatoriale</a></li>
+       ere</a></li>
+       
+      </ul>
+    </nav>
+
+  </body># ✅ **DOVE INCOLLHub  
+2. Clicca ** new file**  
+3. Nome del file: **archivio-storico.html**  
+4. Inc <li><a href="newsletter.html">Newsletter</a></li>
+</html>
