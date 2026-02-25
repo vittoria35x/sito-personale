@@ -1,5 +1,21 @@
 html
-<<section class="hero"> <img src="artista-michelangelo.jpg" alt="Michelangelo Buonarroti" class="hero-image"> <div class="hero-text">angelo Buonarroti</h1> <p class="citazione"> <h1>Michel“La scultura è l’arte di togliere il superfluo.”</p> </div> </section>!doctype html>
+<<section class="hero">html
+<section class="bio">Ti rispondo seccoice BIO con tua foto
+    <img src="IMG_20260216_165611_HDR.jpg" alt="Curatore del Laboratorio del Marmo" class="bio-foto">
+        <h2>Cur
+    <div class="bio-testo">atore del Laboratorio del Marmo</h2>
+        <p>
+            come laboratorio indipendente dedicato alle piccole sculture in marmo Questo spazio nasce, curati uno pero:
+            pezzi unici, numerati uno.
+        </p>
+        <p>
+            Ogni opera è documentata, fotografata in un piccolo museo e presentata come personale:
+            niente produzione </p>
+    </div> inserirlo
+
+- ** di massa, solo scelte precise.
+       
+</section> <img src="artista-michelangelo.jpg" alt="Michelangelo Buonarroti" class="hero-image"> <div class="hero-text">angelo Buonarroti</h1> <p class="citazione"> <h1>Michel“La scultura è l’arte di togliere il superfluo.”</p> </div> </section>!doctype html>
 <html lang="it">
   <head>
     <meta charset="utf-8">
