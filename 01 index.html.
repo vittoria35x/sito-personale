@@ -1,5 +1,5 @@
 html
-<!doctype html>
+<<section class="hero"> <img src="artista-michelangelo.jpg" alt="Michelangelo Buonarroti" class="hero-image"> <div class="hero-text">angelo Buonarroti</h1> <p class="citazione"> <h1>Michel“La scultura è l’arte di togliere il superfluo.”</p> </div> </section>!doctype html>
 <html lang="it">
   <head>
     <meta charset="utf-8">
