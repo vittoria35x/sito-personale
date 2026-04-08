@@ -1,169 +1,152 @@
 `html
 <!DOCTYPE html>
-<html lang="en">
+<html lang="it">
 <head>
-    `css
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 20px auto;
-}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galleria – Paolo</title>
 
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Gallery — Paolo</title>
-<style>
-body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.6; }
-nav ul { list-style: none; padding: 0; margin: 0 0 20px 0; display: flex; gap: 15px; flex-wrap: wrap; }
-nav a { text-decoration: none; color: black; font-weight: bold; }
-h1 { margin-bottom: 10px; }
-section { margin-bottom: 30px; }
-.gallery-item { margin-bottom: 25px; }
-.gallery-item img { max-width: 100%; height: auto; border-radius: 6px; margin-bottom: 10px; }
-footer { margin-top: 40px; font-size: 14px; text-align: center; color: #555; }
-</style>
-  `css
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 20px auto;
-}
-figure {
-  margin: 40px 0;
-  text-align: center;
-}
-figcaption {
-  font-size: 1rem;
-  line-height: 1.4;
-  max-width: 700px;
-  margin: 10px auto;
-}
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+            color: #222;
+        }
 
+        h1 {
+            text-align: center;
+            margin-bottom: 50px;
+            font-size: 2rem;
+            letter-spacing: 1px;
+        }
+
+        section.opera {
+            margin-bottom: 70px;
+        }
+
+        figure {
+            margin: 0;
+            text-align: center;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto 20px auto;
+        }
+
+        figcaption {
+            font-size: 1rem;
+            color: #444;
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        figcaption strong {
+            font-size: 1.1rem;
+        }
+
+        hr {
+            margin: 60px 0;
+            border: none;
+            border-top: 1px solid #ccc;
+        }
+    </style>
+</head>
 
 <body>
-html
-<!-- INCIPIT CARRARA -->
-<section>
-  <h2>Carrara</h2>
-  <p>
-    Tra le Alpi Apuane e il mare, Carrara vive nella luce bianca del marmo.  
-    Una città sospesa tra montagne scolpite dal tempo e un orizzonte che profuma di sale.  
-    Qui la bellezza non è un’idea: è una materia viva, scavata, trasportata, trasformata.
-  </p>
-  <p>
-    Between the Apuan Alps and the sea, Carrara lives in the white light of marble.  
-    A city suspended between mountains shaped by time and a horizon scented with salt.  
-    Here beauty is not an idea: it is a living material, carved, carried, transformed.
-  </p>
+
+<h1>Galleria / Gallery</h1>
+
+<section class="opera">
+    <figure>
+        <img src="MICH-01.jpg" alt="MICH">
+        <figcaption>
+            <strong>MICH</strong><br>
+            <strong>EN:</strong> MICH
+        </figcaption>
+    </figure>
 </section>
 
-<!-- MICHELANGELO -->
-<figure>
-  <img src="MICH-01.jpg" alt="Michelangelo">
-  <figcaption>
-    <p><strong>“Ho visto un angelo nel marmo e l’ho scolpito finché non l’ho liberato.”</strong></p>
-    <p><em>“I saw the angel in the marble and carved until I set him free.”</em></p>
-  </figcaption>
-</figure>
+<hr>
 
-<!-- MOSE' -->
-<figure>
-  <img src="MOSE'.jpg" alt="Mosè di Michelangelo">
-  <figcaption>
-    <p>
-      Una statua talmente perfetta che Michelangelo, preso dalla meraviglia e dalla frustrazione,  
-      la colpì con il martello e gridò: <strong>“Perché non parli?”</strong>
-    </p>
-    <p>
-      A statue so perfect that Michelangelo, overwhelmed by wonder and frustration,  
-      struck it with his hammer and cried: <em>“Why don’t you speak?”</em>
-    </p>
-  </figcaption>
-</figure>
-
-<!-- CAVA GIOIA -->
-<figure>
-  <img src="GIO-01.jpg" alt="Cava Gioia Carrara">
-  <figcaption>
-    <p>
-      La Cava Gioia si apre come una cattedrale di luce.  
-      Il bianco assoluto del marmo riflette il cielo e racconta millenni di storia geologica.
-    </p>
-    <p>
-      The Gioia Quarry opens like a cathedral of light.  
-      The pure white marble reflects the sky and carries the weight of millennia.
-    </p>
-  </figcaption>
-</figure>
-
-<!-- LAVORATORI -->
-<figure>
-  <img src="LAV-01.jpeg" alt="Lavoratori del marmo">
-  <figcaption>
-    <p>
-      Gli uomini che estraggono il marmo sono custodi di un sapere antico.  
-      Ogni taglio è precisione, fatica, tradizione tramandata.
-    </p>
-    <p>
-      The workers who extract the marble are guardians of ancient knowledge.  
-      Every cut is precision, effort, and inherited tradition.
-    </p>
-  </figcaption>
-</figure>
-
-<!-- ARTIGIANO SCULTORE -->
-<figure>
-  <img src="SCU-01.jpg" alt="Artigiano scultore">
-  <figcaption>
-    <p>
-      Nel laboratorio, il blocco prende forma.  
-      La mano guida lo scalpello, la polvere si solleva come un respiro.
-    </p>
-    <p>
-      In the workshop, the block begins to take shape.  
-      The hand guides the chisel, and the dust rises like a breath.
-    </p>
-  </figcaption>
-</figure>
-
-<figure>
-  <img src="SCU-02.jpg" alt="Artigiano scultore">
-  <figcaption>
-    <p>
-      Ogni gesto è un dialogo silenzioso tra l’artigiano e la materia.
-    </p>
-    <p>
-      Every gesture is a silent dialogue between the artisan and the stone.
-    </p>
-  </figcaption>
-</figure>
-
-<figure>
-  <img src="SCU-03.jpg" alt="Artigiano scultore">
-  <figcaption>
-    <p>
-      Il marmo rivela la sua anima solo a chi sa ascoltarlo.
-    </p>
-    <p>
-      Marble reveals its soul only to those who know how to listen.
-    </p>
-  </figcaption>
-</figure>
-
-<!-- CHIUSURA -->
-<section>
-  <p>
-    Il marmo è una storia che continua, ogni giorno, tra le mani di chi lo vive.
-  </p>
-  <p>
-    Marble is a story that continues, every day, in the hands of those who shape it.
-  </p>
+<section class="opera">
+    <figure>
+        <img src="MOSE'.jpg" alt="Mosè">
+        <figcaption>
+            <strong>Mosè</strong><br>
+            <strong>EN:</strong> Moses
+        </figcaption>
+    </figure>
 </section>
-`
 
+<hr>
+
+<section class="opera">
+    <figure>
+        <img src="GIO-01.jpg" alt="GIO">
+        <figcaption>
+            <strong>GIO</strong><br>
+            <strong>EN:</strong> GIO
+        </figcaption>
+    </figure>
+</section>
+
+<hr>
+
+<section class="opera">
+    <figure>
+        <img src="LAV.01.jpeg" alt="Lavoro">
+        <figcaption>
+            <strong>Lavoro</strong><br>
+            <strong>EN:</strong> Work
+        </figcaption>
+    </figure>
+</section>
+
+<hr>
+
+<section class="opera">
+    <figure>
+        <img src="SCU-01.jpg" alt="Scultura 01">
+        <figcaption>
+            <strong>Scultura 01</strong><br>
+            <strong>EN:</strong> Sculpture 01
+        </figcaption>
+    </figure>
+</section>
+
+<hr>
+
+<section class="opera">
+    <figure>
+        <img src="SCU-02.jpg" alt="Scultura 02">
+        <figcaption>
+            <strong>Scultura 02</strong><br>
+            <strong>EN:</strong> Sculpture 02
+        </figcaption>
+    </figure>
+</section>
+
+<hr>
+
+<section class="opera">
+    <figure>
+        <img src="SCU-03.jpg" alt="Scultura 03">
+        <figcaption>
+            <strong>Scultura 03</strong><br>
+            <strong>EN:</strong> Sculpture 03
+        </figcaption>
+    </figure>
+</section>
 
 </body>
 </html>
 `
+
+
+     
+
+ 
